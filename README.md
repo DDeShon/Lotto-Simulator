@@ -1,2 +1,2 @@
 # Lotto-Simulator
-Simple lottery simulation
+Simple lottery simulation in Java
