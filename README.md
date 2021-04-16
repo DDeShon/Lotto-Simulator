@@ -1,2 +1,3 @@
 # Lotto-Simulator
-Lottery simulation in Java
+
+This is a Java program that simulates a lottery drawing.
